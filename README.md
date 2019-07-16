@@ -15,5 +15,8 @@ this is just a tutorial that clear some docker things up
 
 https://codefresh.io/docker-tutorial/hello-whale-getting-started-docker-flask/
 
+add timer to main.py too
+ 
+
 
 
